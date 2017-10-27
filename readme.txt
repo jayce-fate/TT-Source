@@ -5,7 +5,8 @@ TT棋牌客户端 Version 1.0.54，Online 更新内容如下：
 - 支持网页唤醒app，并且自动登录
 ===========================================
 下载地址：
-http://7851.com/Mobile
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/jayce-fate/TT-Source/master/Game.plist
+https://raw.githubusercontent.com/jayce-fate/TT-Source/master/Game.apk
 
 TT棋牌客户端 Version 1.0.52 测试服，更新内容如下：
 ===========================================
